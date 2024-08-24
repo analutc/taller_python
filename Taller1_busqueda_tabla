@@ -1,2 +1,2 @@
-a
-a
+import pandas as pd
+tabla = pd.read_csv("https://raw.githubusercontent.com/analutc/taller_python/main/scopus.csv")
